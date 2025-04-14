@@ -7,10 +7,3 @@ LUCIUS RESOLUSI
 - NOVEL
 - eBOOK
 
-Here's your GitHub launch code!
-a rocket
-Continue signing up for GitHub by entering the code below:
-58244974
-Open GitHub
-Not able to enter the code? Paste the following link into your browser:
-https://github.com/account_verifications/confirm/fc7df949-e3af-47e9-bcb0-47671f583e7c/58244974
